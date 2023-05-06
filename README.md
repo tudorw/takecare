@@ -189,6 +189,13 @@ Copy code
     - Voluntary corporate sustainability initiative
     - Encourages businesses to align with ten universal principles covering human rights, labor, environment, and anti-corruption
     - Provides a platform for reporting on progress and sharing best practices
+    'Yes, Patagonia is a signatory to the United Nations Global Compact (UNGC). The UNGC is a voluntary initiative that encourages businesses to align their operations and strategies with ten universally accepted principles in the areas of human rights, labor, the environment and anti-corruption.
+
+Patagonia has been a signatory to the UNGC since 2002. The company has published a number of documents that outline its commitments to the UNGC, including its 2022 Communication on Progress. This document details Patagonia's progress in implementing the UNGC principles over the past year, and sets out the company's goals for the coming year.
+
+Patagonia's commitment to the UNGC is part of the company's broader commitment to sustainability. Patagonia is a Certified B Corporation, which means that it meets rigorous standards of social and environmental performance, accountability, and transparency. The company is also a member of the Fair Labor Association, and it has a number of other initiatives in place to promote sustainability in its supply chain and operations.
+
+Patagonia is a leader in the outdoor apparel industry when it comes to sustainability. The company's commitment to the UNGC is an important part of its efforts to make a positive impact on the world.'
   - Integrated Reporting (<IR>):
     - Promotes integrated thinking and reporting on financial and non-financial aspects of business performance
     - Links sustainability and corporate strategy
