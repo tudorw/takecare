@@ -1,3 +1,5 @@
+note this requires a folder called 'complete' in the workspace together with a list of files titled as follow 'ai.company.com.txt' and containing the URL as the only text, https://ai.company.com/
+
 I want Auto-GPT to: use the following os_command 'dir /b /a-d | findstr /n "^" | findstr "^1:"' to retrieve a single filename from your workspace, use the URL in the file text to get_text_summary from website using the URL, regardless of the response, write it to the file and move the file to the 'complete' directory, then move onto the next file in your workspace and repeat the process until all files have been processed
 WebSummarizerGPT  has been created with the following details:
 Name:  WebSummarizerGPT
