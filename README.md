@@ -104,6 +104,22 @@ Copy code
   - Transparent reporting using established frameworks:
     - Global Reporting Initiative (GRI)
     - Sustainability Accounting Standards Board (SASB)
+    '
+Patagonia is not SASB compliant. SASB is a non-profit organization that develops sustainability accounting standards for companies in the United States. Patagonia is a privately held company and is not required to comply with SASB standards. However, Patagonia has voluntarily committed to sustainability and has published a number of reports on its progress. The company's most recent sustainability report, published in 2022, outlines its commitments to environmental, social, and governance (ESG) issues. Patagonia has also set a number of ambitious goals, including becoming carbon neutral by 2030 and using only recycled materials in its products by 2025.
+
+The document that specifies Patagonia's commitments is its Sustainability Report. The report is published annually and provides an overview of the company's progress on its sustainability goals. The report also includes information on Patagonia's environmental impact, its social impact, and its governance practices.
+
+Here are some of Patagonia's sustainability commitments:
+
+To become carbon neutral by 2030.
+To use only recycled materials in its products by 2025.
+To pay its workers a living wage.
+To treat its workers with respect and dignity.
+To protect the environment.
+To support social justice.
+Patagonia is a leader in the sustainability movement. The company is committed to making a positive impact on the environment and society. Patagonia's sustainability commitments are ambitious, but the company is making progress towards achieving them.
+
+'
   - External audits:
     - Carbon Disclosure Project (CDP)
     - Sustainalytics
