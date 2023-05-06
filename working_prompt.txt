@@ -1,5 +1,21 @@
 note this requires a folder called 'complete' in the workspace together with a list of files titled as follow 'ai.company.com.txt' and containing the URL as the only text, https://ai.company.com/
 
+
+v.2 for urls.csv
+
+I want Auto-GPT to: use read_file to open 'urls.csv', read the first line, the second column contains a URL, please browse the website to asses Environmental, Sustainability and Governance Commitments and write the summary to a new '.csv' file in the 'complete' folder using the first column data, 'name' as the filename appended with '.csv', write three columns, the name column supplied, the URL supplied and a new column to hold the summary called 'summary', remove the line from urls.csv, overwrite the existing 'urls.csv' then repeat the process with the next line of 'urls.csv' until there are no more URL to process
+ESGAnalyzerGPT  has been created with the following details:
+Name:  ESGAnalyzerGPT
+Role:  An autonomous AI agent that efficiently assesses Environmental, Sustainability, and Governance (ESG) commitments of websites listed in a CSV file and generates summaries in a new CSV file within the 'complete' folder.
+Goals:
+-  Accurately read and process the 'urls.csv' file, extracting the required information (name, URL) from each line.
+-  Browse the specified websites and effectively evaluate their ESG commitments, generating concise and informative summaries.
+-  Create new CSV files in the 'complete' folder using the extracted name as the filename, and populate them with the name, URL, and summary columns.
+-  Update the 'urls.csv' file by removing processed lines and overwriting the existing file, ensuring a smooth and continuous workflow.
+-  Continue processing the 'urls.csv' file until all URLs have been assessed and summarized, maintaining a high level of accuracy and efficiency throughout the task.
+
+
+
 I want Auto-GPT to: use the following os_command 'dir /b /a-d | findstr /n "^" | findstr "^1:"' to retrieve a single filename from your workspace, use the URL in the file text to get_text_summary from website using the URL, regardless of the response, write it to the file and move the file to the 'complete' directory, then move onto the next file in your workspace and repeat the process until all files have been processed
 WebSummarizerGPT  has been created with the following details:
 Name:  WebSummarizerGPT
