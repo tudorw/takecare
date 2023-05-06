@@ -218,6 +218,16 @@ Task Force on Climate-related Financial Disclosures (TCFD):
 
 Purpose: Encourage companies to assess and disclose climate-related financial risks and opportunities to align with investor needs.
 Ground truth documentation holder: Financial Stability Board (FSB).
+'
+Patagonia is not Financial Stability Board (FSB) compliant. The FSB is an international body that was created in 2009 to promote financial stability. The FSB has developed a number of standards and guidelines that are designed to help financial institutions manage their risks and reduce the likelihood of a financial crisis.
+
+Patagonia has not committed to complying with the FSB's standards and guidelines. In fact, Patagonia has been critical of the FSB, arguing that its focus on financial stability comes at the expense of environmental and social sustainability.
+
+In 2019, Patagonia published a letter to the FSB, in which it argued that the FSB's focus on financial stability is "out of step with the urgent need to address the existential threats posed by climate change and biodiversity loss." Patagonia also argued that the FSB's "narrow focus on financial stability" is "leading to policies that are exacerbating these crises."
+
+Patagonia has instead committed to a number of environmental and social sustainability goals. These goals include reducing its carbon emissions, using recycled materials in its products, and paying its workers a living wage.
+
+In conclusion, Patagonia is not Financial Stability Board (FSB) compliant. Patagonia has not committed to complying with the FSB's standards and guidelines, and has instead committed to a number of environmental and social sustainability goals.'
 Stakeholders: Companies, investors, financial institutions, and regulators.
 CDP (formerly Carbon Disclosure Project):
 
